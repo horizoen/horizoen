@@ -7,7 +7,7 @@ I'm passionate about creating solutions in the open source world. No project is 
 - 🌐 Topics | Foucs on infrastructure architecture and open-source tools, cloud-native observability
 
 # 🛠 Tech stack
-- Languages: Java, Go, Rust, C++, Python, Shell
+- Languages: Java, Rust, Python, Shell
 - Infrastructure: Docker, Kubernetes, Distributed systems, High-performance and low-latency systems
 - CI/CD & GitOps: GitHub Actions
 - Platforms: macOS, Linux
